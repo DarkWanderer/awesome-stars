@@ -10,6 +10,8 @@
 - [android](#android)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -18,6 +20,7 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [elixir](#elixir)
+- [github](#github)
 - [go](#go)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
@@ -31,6 +34,7 @@
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [others](#others)
@@ -44,6 +48,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [typescript](#typescript)
@@ -54,6 +59,7 @@
 ## ai 
 
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
 
 ## analytics 
@@ -71,6 +77,16 @@
 ## c 
 
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+
+## chatgpt 
+
+- [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## chatgpt-api 
+
+- [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## compiler 
 
@@ -111,6 +127,10 @@
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 
+## github 
+
+- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
+
 ## go 
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -126,6 +146,8 @@
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [intercept/interceptAR](https://github.com/intercept/interceptAR) - 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [BrettMayson/HEMTT](https://github.com/BrettMayson/HEMTT) - Build System for Arma 3
+- [CBATeam/CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -147,10 +169,11 @@
 ## json 
 
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 
 ## language 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## linux 
@@ -174,6 +197,10 @@
 
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
+## nextjs 
+
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
+
 ## open-source 
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -184,10 +211,11 @@
 
 ## others 
 
+- [viva64/plog-converter](https://github.com/viva64/plog-converter) - Analyzer raw\json log conversion tool (to html, csv, xml, tasks, etc.) for cross-platform C/C++ (Makefile, CMake, QMake, Ninja, WAF) and Java workflows
+- [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function.
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
@@ -210,11 +238,9 @@
 - [arma-actions/hemtt](https://github.com/arma-actions/hemtt) - Action for BrettMayson/HEMTT
 - [arma-actions/sqflint](https://github.com/arma-actions/sqflint) - Action for LordGolias/sqflint
 - [googlesamples/android-vulkan-tutorials](https://github.com/googlesamples/android-vulkan-tutorials) - A set of samples to illustrate Vulkan API on Android
-- [BrettMayson/HEMTT](https://github.com/BrettMayson/HEMTT) - Build System for Arma 3
 - [DarkWanderer/Elite-Log-Agent](https://github.com/DarkWanderer/Elite-Log-Agent) - Lightweight, non-intrusive data uploader for Elite Dangerous
 - [ricksladkey/dirichlet-numerics](https://github.com/ricksladkey/dirichlet-numerics) - Dirichlet .NET Number Theory Library
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
-- [CBATeam/CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3
 - [ALiVEOS/ALiVE.OS](https://github.com/ALiVEOS/ALiVE.OS) - ALiVE Open Source GPL v2
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [luckyrat/KeePass-Favicon-Downloader](https://github.com/luckyrat/KeePass-Favicon-Downloader) - A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.
@@ -247,6 +273,7 @@
 
 ## rust 
 
+- [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [swellaby/vscode-rust-test-adapter](https://github.com/swellaby/vscode-rust-test-adapter) - Rust Test Explorer extension for VS Code
@@ -269,6 +296,10 @@
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+
+## sqlite 
+
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
 ## terminal 
 
