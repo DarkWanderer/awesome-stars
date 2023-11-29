@@ -211,6 +211,8 @@
 
 ## others 
 
+- [apexcharts/Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) - A blazor wrapper for ApexCharts.js
+- [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [viva64/plog-converter](https://github.com/viva64/plog-converter) - Analyzer raw\json log conversion tool (to html, csv, xml, tasks, etc.) for cross-platform C/C++ (Makefile, CMake, QMake, Ninja, WAF) and Java workflows
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
