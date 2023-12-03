@@ -11,16 +11,17 @@
 - [CMake](#cmake)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
+- [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQF](#sqf)
-- [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
 
 ## C 
@@ -30,6 +31,13 @@
 
 ## C# # 
 
+- [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+- [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
+- [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
+- [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [apexcharts/Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) - A blazor wrapper for ApexCharts.js
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
@@ -44,7 +52,6 @@
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
-- [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [luckyrat/KeePass-Favicon-Downloader](https://github.com/luckyrat/KeePass-Favicon-Downloader) - A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.
 
 ## C++ 
@@ -56,7 +63,7 @@
 - [intercept/interceptAR](https://github.com/intercept/interceptAR) - 
 - [dbeachy1/XRVessels](https://github.com/dbeachy1/XRVessels) - XR-Series vessel add-ons for Orbiter Space Flight Simulator
 - [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 - [googlesamples/android-vulkan-tutorials](https://github.com/googlesamples/android-vulkan-tutorials) - A set of samples to illustrate Vulkan API on Android
@@ -75,6 +82,10 @@
 
 - [arma-actions/sqflint](https://github.com/arma-actions/sqflint) - Action for LordGolias/sqflint
 
+## F# # 
+
+- [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
+
 ## Go 
 
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -83,6 +94,7 @@
 
 ## HTML 
 
+- [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## Java 
@@ -98,6 +110,10 @@
 
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
+
+## PowerShell 
+
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 
 ## Python 
 
@@ -130,10 +146,6 @@
 - [ALiVEOS/ALiVE.OS](https://github.com/ALiVEOS/ALiVE.OS) - ALiVE Open Source GPL v2
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
 - [acemod/ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3
-
-## Standard ML 
-
-- [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples
 
 ## TypeScript 
 
