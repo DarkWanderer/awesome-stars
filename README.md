@@ -22,6 +22,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQF](#sqf)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 
 ## C 
@@ -56,7 +57,6 @@
 
 ## C++ 
 
-- [viva64/plog-converter](https://github.com/viva64/plog-converter) - Analyzer raw\json log conversion tool (to html, csv, xml, tasks, etc.) for cross-platform C/C++ (Makefile, CMake, QMake, Ninja, WAF) and Java workflows
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [danlark1/quadratic_strict_weak_ordering](https://github.com/danlark1/quadratic_strict_weak_ordering) - 
@@ -146,6 +146,10 @@
 - [ALiVEOS/ALiVE.OS](https://github.com/ALiVEOS/ALiVE.OS) - ALiVE Open Source GPL v2
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
 - [acemod/ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3
+
+## Shell 
+
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## TypeScript 
 
