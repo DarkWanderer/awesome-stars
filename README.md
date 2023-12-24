@@ -45,7 +45,6 @@
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [prometheus-net/prometheus-net](https://github.com/prometheus-net/prometheus-net) - .NET library to instrument your code with Prometheus metrics
 - [ciribob/DCS-SimpleRadioStandalone](https://github.com/ciribob/DCS-SimpleRadioStandalone) - An open source Stand alone Radio for DCS integrating with all clickable cockpits and FC3 Aircraft
-- [denis-ivanov/EntityFrameworkCore.ClickHouse](https://github.com/denis-ivanov/EntityFrameworkCore.ClickHouse) - ClickHouse provider for Entity Framework Core.
 - [DarkWanderer/Elite-Log-Agent](https://github.com/DarkWanderer/Elite-Log-Agent) - Lightweight, non-intrusive data uploader for Elite Dangerous
 - [ricksladkey/dirichlet-numerics](https://github.com/ricksladkey/dirichlet-numerics) - Dirichlet .NET Number Theory Library
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
@@ -130,6 +129,7 @@
 
 ## Rust 
 
+- [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
 - [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
