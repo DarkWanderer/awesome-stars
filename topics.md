@@ -265,7 +265,6 @@
 - [ricksladkey/dirichlet-numerics](https://github.com/ricksladkey/dirichlet-numerics) - Dirichlet .NET Number Theory Library
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [ALiVEOS/ALiVE.OS](https://github.com/ALiVEOS/ALiVE.OS) - ALiVE Open Source GPL v2
-- [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [luckyrat/KeePass-Favicon-Downloader](https://github.com/luckyrat/KeePass-Favicon-Downloader) - A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.
 - [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
 
