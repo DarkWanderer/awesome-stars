@@ -47,7 +47,6 @@
 - [ciribob/DCS-SimpleRadioStandalone](https://github.com/ciribob/DCS-SimpleRadioStandalone) - An open source Stand alone Radio for DCS integrating with all clickable cockpits and FC3 Aircraft
 - [DarkWanderer/Elite-Log-Agent](https://github.com/DarkWanderer/Elite-Log-Agent) - Lightweight, non-intrusive data uploader for Elite Dangerous
 - [ricksladkey/dirichlet-numerics](https://github.com/ricksladkey/dirichlet-numerics) - Dirichlet .NET Number Theory Library
-- [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
@@ -55,6 +54,8 @@
 
 ## C++ 
 
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
+- [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [danlark1/quadratic_strict_weak_ordering](https://github.com/danlark1/quadratic_strict_weak_ordering) - 
