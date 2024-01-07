@@ -29,6 +29,7 @@
 - [javascript](#javascript)
 - [json](#json)
 - [language](#language)
+- [library](#library)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -99,6 +100,7 @@
 
 ## cpp 
 
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 
 ## csharp 
@@ -111,7 +113,6 @@
 ## database 
 
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
-- [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
 ## discord 
@@ -133,7 +134,6 @@
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-- [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 
 ## elixir 
@@ -193,6 +193,10 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
+## library 
+
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
+
 ## linux 
 
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
@@ -233,6 +237,7 @@
 
 ## others 
 
+- [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
 - [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [apexcharts/Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) - A blazor wrapper for ApexCharts.js
