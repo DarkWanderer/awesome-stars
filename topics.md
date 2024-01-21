@@ -33,6 +33,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -212,6 +213,10 @@
 ## macos 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+
+## microsoft 
+
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 ## mobile 
 
