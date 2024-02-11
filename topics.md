@@ -134,7 +134,7 @@
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
