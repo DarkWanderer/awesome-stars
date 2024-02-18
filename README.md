@@ -32,6 +32,7 @@
 
 ## C# # 
 
+- [cannonfodder1/Nebulous-ExceptionToTheRule](https://github.com/cannonfodder1/Nebulous-ExceptionToTheRule) - a custom campaign mod for Nebulous: Fleet Command
 - [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
 - [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 - [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
@@ -113,7 +114,7 @@
 
 ## PowerShell 
 
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## Python 
 
