@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 - [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -96,6 +97,7 @@
 
 ## HTML 
 
+- [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
