@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
+- [artificial-intelligence](#artificial-intelligence)
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
@@ -54,6 +55,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sql](#sql)
+- [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -77,6 +79,10 @@
 ## android 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+
+## artificial-intelligence 
+
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 
 ## bot 
 
@@ -120,6 +126,7 @@
 
 ## database 
 
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
@@ -136,6 +143,7 @@
 
 ## dotnet 
 
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 - [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
@@ -241,6 +249,7 @@
 
 ## mysql 
 
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
 ## nextjs 
@@ -261,7 +270,6 @@
 
 ## others 
 
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -356,10 +364,15 @@
 
 ## sql 
 
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+
+## sql-server 
+
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 
 ## sqlite 
 
