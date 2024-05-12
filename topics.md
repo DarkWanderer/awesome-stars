@@ -32,6 +32,7 @@
 - [language](#language)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [microsoft](#microsoft)
@@ -225,6 +226,12 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
+## llm 
+
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
+
 ## machine-learning 
 
 - [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
@@ -270,6 +277,7 @@
 
 ## others 
 
+- [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
