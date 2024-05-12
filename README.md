@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
 
