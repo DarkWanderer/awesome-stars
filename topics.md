@@ -112,7 +112,7 @@
 
 ## cpp 
 
-- [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20
+- [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
@@ -280,6 +280,7 @@
 
 ## others 
 
+- [DarkWanderer/cmake_template](https://github.com/DarkWanderer/cmake_template) - Template for cross-platform VisualStudio-compatible CMake project with GitHub CI
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
@@ -352,6 +353,7 @@
 
 ## rust 
 
+- [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
