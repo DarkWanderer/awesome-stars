@@ -60,7 +60,7 @@
 
 ## C++ 
 
-- [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20
+- [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 - [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
@@ -127,6 +127,7 @@
 
 ## Python 
 
+- [DarkWanderer/cmake_template](https://github.com/DarkWanderer/cmake_template) - Template for cross-platform VisualStudio-compatible CMake project with GitHub CI
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
@@ -142,6 +143,7 @@
 
 ## Rust 
 
+- [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
 - [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
