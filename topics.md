@@ -24,6 +24,7 @@
 - [github](#github)
 - [go](#go)
 - [good-first-issue](#good-first-issue)
+- [google-cloud](#google-cloud)
 - [hacktoberfest](#hacktoberfest)
 - [ios](#ios)
 - [java](#java)
@@ -178,6 +179,10 @@
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## google-cloud 
+
+- [google-github-actions/auth](https://github.com/google-github-actions/auth) - A GitHub Action for authenticating to Google Cloud.
 
 ## hacktoberfest 
 
@@ -368,6 +373,7 @@
 
 ## security 
 
+- [google-github-actions/auth](https://github.com/google-github-actions/auth) - A GitHub Action for authenticating to Google Cloud.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## self-hosted 
