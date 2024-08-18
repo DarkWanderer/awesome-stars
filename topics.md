@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -21,6 +22,7 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [elixir](#elixir)
+- [game-development](#game-development)
 - [github](#github)
 - [go](#go)
 - [good-first-issue](#good-first-issue)
@@ -44,6 +46,7 @@
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [opengl](#opengl)
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -66,6 +69,10 @@
 - [windows](#windows)
 - [xamarin](#xamarin)
 - [xml](#xml)
+
+## 3d 
+
+- [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 
 ## ai 
 
@@ -122,6 +129,7 @@
 
 ## csharp 
 
+- [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 - [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 - [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -165,6 +173,10 @@
 ## elixir 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
+
+## game-development 
+
+- [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 
 ## github 
 
@@ -284,6 +296,10 @@
 ## opencv 
 
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
+
+## opengl 
+
+- [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 
 ## others 
 
