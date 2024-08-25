@@ -129,7 +129,7 @@
 ## Python 
 
 - [DarkWanderer/cmake_template](https://github.com/DarkWanderer/cmake_template) - Template for cross-platform VisualStudio-compatible CMake project with GitHub CI
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
@@ -144,6 +144,7 @@
 
 ## Rust 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
