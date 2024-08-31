@@ -33,6 +33,7 @@
 
 ## C# # 
 
+- [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) - A library to provide pooling for .NET MemoryStream objects to improve application performance.
 - [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
@@ -61,6 +62,7 @@
 
 ## C++ 
 
+- [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
