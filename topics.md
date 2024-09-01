@@ -31,6 +31,7 @@
 - [good-first-issue](#good-first-issue)
 - [google-cloud](#google-cloud)
 - [hacktoberfest](#hacktoberfest)
+- [http](#http)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -63,6 +64,7 @@
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [shell](#shell)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -110,6 +112,7 @@
 
 ## c-plus-plus 
 
+- [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
@@ -136,6 +139,7 @@
 
 ## cpp 
 
+- [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
@@ -234,6 +238,10 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [acemod/ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3
 
+## http 
+
+- [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
+
 ## ios 
 
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -264,6 +272,7 @@
 
 ## linux 
 
+- [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
@@ -428,6 +437,10 @@
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
+## server 
+
+- [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
+
 ## shell 
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -466,6 +479,7 @@
 
 ## windows 
 
+- [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
