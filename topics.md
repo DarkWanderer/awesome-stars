@@ -16,6 +16,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [cli](#cli)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -123,6 +124,7 @@
 
 ## chatgpt 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 - [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -131,6 +133,10 @@
 
 - [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## cli 
+
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 ## compiler 
 
