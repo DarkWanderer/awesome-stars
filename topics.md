@@ -10,6 +10,8 @@
 - [analytics](#analytics)
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -28,6 +30,7 @@
 - [dotnet](#dotnet)
 - [elixir](#elixir)
 - [game-development](#game-development)
+- [gamedev](#gamedev)
 - [github](#github)
 - [go](#go)
 - [good-first-issue](#good-first-issue)
@@ -58,6 +61,7 @@
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [python](#python)
 - [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
@@ -105,6 +109,14 @@
 ## artificial-intelligence 
 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+## awesome 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## awesome-list 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## bot 
 
@@ -215,6 +227,10 @@
 
 - [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 
+## gamedev 
+
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
+
 ## github 
 
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
@@ -281,6 +297,7 @@
 
 ## library 
 
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 
 ## linux 
@@ -358,6 +375,7 @@
 
 ## others 
 
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
 - [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) - A library to provide pooling for .NET MemoryStream objects to improve application performance.
 - [DarkWanderer/cmake_template](https://github.com/DarkWanderer/cmake_template) - Template for cross-platform VisualStudio-compatible CMake project with GitHub CI
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
@@ -409,6 +427,10 @@
 
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
+## privacy 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
 ## python 
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -455,6 +477,7 @@
 
 ## self-hosted 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
 ## server 
