@@ -71,7 +71,7 @@
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
 - [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. Free for non-commercial use.
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [danlark1/quadratic_strict_weak_ordering](https://github.com/danlark1/quadratic_strict_weak_ordering) - 
 - [intercept/interceptAR](https://github.com/intercept/interceptAR) - 
 - [dbeachy1/XRVessels](https://github.com/dbeachy1/XRVessels) - XR-Series vessel add-ons for Orbiter Space Flight Simulator
