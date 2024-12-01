@@ -155,13 +155,14 @@
 
 ## Rust 
 
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
-- [Maxuss/chatgpt_rs](https://github.com/Maxuss/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
+- [rsmeowry/chatgpt_rs](https://github.com/rsmeowry/chatgpt_rs) - OpenAI's ChatGPT API wrapper for Rust 🦀
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [BrettMayson/arma-rs](https://github.com/BrettMayson/arma-rs) - 
