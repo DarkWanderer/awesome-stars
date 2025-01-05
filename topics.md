@@ -416,7 +416,7 @@
 - [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function.
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
-- [guys-in-the-cloud/cloud-skill-boosts](https://github.com/guys-in-the-cloud/cloud-skill-boosts) - 
+- [guysinthecloud/cloud-skill-boosts](https://github.com/guysinthecloud/cloud-skill-boosts) - 
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [danlark1/quadratic_strict_weak_ordering](https://github.com/danlark1/quadratic_strict_weak_ordering) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
