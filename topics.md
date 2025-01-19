@@ -194,6 +194,7 @@
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - .NET client for ClickHouse
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
 ## deep-learning 
@@ -234,6 +235,7 @@
 ## embedded 
 
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## game-development 
 
@@ -502,6 +504,7 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## server 
 
