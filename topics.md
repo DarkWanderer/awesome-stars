@@ -164,6 +164,7 @@
 
 ## cpp 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
