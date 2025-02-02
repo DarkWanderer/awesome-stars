@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
