@@ -110,6 +110,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
@@ -138,7 +139,6 @@
 
 ## Python 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BrettMayson/Arma3Server](https://github.com/BrettMayson/Arma3Server) - Docker - Arma 3 Dedicated Server
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
 - [google/bayesnf](https://github.com/google/bayesnf) - Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
@@ -146,7 +146,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [guysinthecloud/cloud-skill-boosts](https://github.com/guysinthecloud/cloud-skill-boosts) - 
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
