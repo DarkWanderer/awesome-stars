@@ -248,6 +248,7 @@
 
 ## github 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 
 ## go 
@@ -396,6 +397,7 @@
 
 ## others 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ
 - [reqnroll/Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
