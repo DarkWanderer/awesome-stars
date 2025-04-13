@@ -397,11 +397,12 @@
 
 ## others 
 
+- [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) - Microsoft Graph Client Library for .NET!
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ
 - [reqnroll/Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
-- [neogenie/fastnum](https://github.com/neogenie/fastnum) - 
+- [neogenie/fastnum](https://github.com/neogenie/fastnum) - Fixed-size decimal numbers implemented in pure Rust
 - [BrettMayson/Arma3Server](https://github.com/BrettMayson/Arma3Server) - Docker - Arma 3 Dedicated Server
 - [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind
