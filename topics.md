@@ -34,6 +34,7 @@
 - [gamedev](#gamedev)
 - [github](#github)
 - [go](#go)
+- [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google-cloud](#google-cloud)
 - [hacktoberfest](#hacktoberfest)
@@ -253,8 +254,13 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
+
+## golang 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
 ## good-first-issue 
 
@@ -325,6 +331,7 @@
 
 ## llm 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
@@ -397,6 +404,7 @@
 
 ## others 
 
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) - Microsoft Graph Client Library for .NET!
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
