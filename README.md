@@ -68,6 +68,7 @@
 ## C++ 
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
@@ -156,9 +157,9 @@
 
 ## Python 
 
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BrettMayson/Arma3Server](https://github.com/BrettMayson/Arma3Server) - Docker - Arma 3 Dedicated Server
 - [google/bayesnf](https://github.com/google/bayesnf) - Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
