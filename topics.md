@@ -25,6 +25,7 @@
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -206,6 +207,11 @@
 ## deep-learning 
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+
+## developer-tools 
+
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 ## devops 
 
@@ -413,7 +419,7 @@
 
 - [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
-- [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
+- [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [PygmalionOfCyprus/cmo-db-requests](https://github.com/PygmalionOfCyprus/cmo-db-requests) - Public issue/request tracking for the Command: Modern Operations database
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
