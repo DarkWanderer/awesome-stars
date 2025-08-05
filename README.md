@@ -17,7 +17,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
-- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -147,10 +146,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
-
-## PHP 
-
-- [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ
 
 ## PowerShell 
 
