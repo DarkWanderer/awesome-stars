@@ -433,7 +433,6 @@
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) - Microsoft Graph Client Library for .NET!
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
-- [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ
 - [reqnroll/Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
 - [neogenie/fastnum](https://github.com/neogenie/fastnum) - Fixed-size decimal numbers implemented in pure Rust
 - [BrettMayson/Arma3Server](https://github.com/BrettMayson/Arma3Server) - Docker - Arma 3 Dedicated Server
