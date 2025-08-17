@@ -64,6 +64,7 @@
 - [opengl](#opengl)
 - [others](#others)
 - [php](#php)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [python](#python)
@@ -457,7 +458,6 @@
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
-- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function.
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
@@ -488,6 +488,10 @@
 ## php 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
+
+## physics 
+
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 
 ## postgresql 
 
