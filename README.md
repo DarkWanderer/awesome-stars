@@ -132,7 +132,6 @@
 
 ## JavaScript 
 
-- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
@@ -178,6 +177,14 @@
 
 ## Rust 
 
+- [dtolnay/no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic
+- [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
+- [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
+- [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+- [dtolnay/rustflags](https://github.com/dtolnay/rustflags) - Parser for CARGO_ENCODED_RUSTFLAGS
+- [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
+- [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [datafusion-contrib/datafusion-postgres](https://github.com/datafusion-contrib/datafusion-postgres) - Postgres protocol frontend for DataFusion
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
@@ -213,6 +220,7 @@
 
 ## Shell 
 
+- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
