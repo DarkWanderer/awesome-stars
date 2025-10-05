@@ -72,6 +72,7 @@
 - [python](#python)
 - [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -212,7 +213,7 @@
 ## database 
 
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [DarkWanderer/ClickHouse.Client](https://github.com/DarkWanderer/ClickHouse.Client) - Unofficial .NET client for ClickHouse database
@@ -314,12 +315,12 @@
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [intercept/interceptAR](https://github.com/intercept/interceptAR) - 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [BrettMayson/HEMTT](https://github.com/BrettMayson/HEMTT) - Build System for Arma 3
 - [CBATeam/CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [acemod/ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3
 
 ## http 
@@ -398,6 +399,7 @@
 
 ## monitoring 
 
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [prometheus-net/prometheus-net](https://github.com/prometheus-net/prometheus-net) - .NET library to instrument your code with Prometheus metrics
 
@@ -534,6 +536,7 @@
 
 ## python 
 
+- [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO® PoweredUp devices
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
@@ -547,6 +550,10 @@
 ## raspberry-pi 
 
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+
+## robotics 
+
+- [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO® PoweredUp devices
 
 ## ruby 
 
@@ -596,7 +603,7 @@
 ## sql 
 
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
