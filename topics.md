@@ -25,6 +25,7 @@
 - [csharp](#csharp)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
+- [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
@@ -209,6 +210,10 @@
 ## data-science 
 
 - [google/bayesnf](https://github.com/google/bayesnf) - Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
+
+## data-structures 
+
+- [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 
 ## database 
 
@@ -438,6 +443,8 @@
 
 ## others 
 
+- [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Repo for donation of distributed DataFusion prototype - repo name will change
+- [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [dtolnay/no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
@@ -562,6 +569,7 @@
 
 ## rust 
 
+- [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [datafusion-contrib/datafusion-postgres](https://github.com/datafusion-contrib/datafusion-postgres) - Postgres protocol frontend for DataFusion
