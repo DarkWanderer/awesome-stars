@@ -182,6 +182,8 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) - Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
 - [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Repo for donation of distributed DataFusion prototype - repo name will change
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
