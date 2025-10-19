@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
@@ -109,6 +110,10 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [nk3nny/LambsDanger](https://github.com/nk3nny/LambsDanger) - AI enhancement mod for Arma 3
+
+## ai-agents 
+
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 
 ## analytics 
 
@@ -443,6 +448,8 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) - Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
 - [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Repo for donation of distributed DataFusion prototype - repo name will change
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
@@ -455,7 +462,6 @@
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [Esri/joint-military-symbology-xml](https://github.com/Esri/joint-military-symbology-xml) - Joint Military Symbology Markup Language is a data encapsulation of MIL-STD-2525D and APP-6(D).
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
