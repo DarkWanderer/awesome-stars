@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
@@ -167,7 +168,7 @@
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind
 - [google/bayesnf](https://github.com/google/bayesnf) - Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
 - [DarkWanderer/cmake_template](https://github.com/DarkWanderer/cmake_template) - Template for cross-platform VisualStudio-compatible CMake project with GitHub CI
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [aconrad/pycobertura](https://github.com/aconrad/pycobertura) - A code coverage diff tool for Cobertura reports
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
@@ -209,7 +210,7 @@
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) - Kill orphan processes
 - [DCS-gRPC/rust-server](https://github.com/DCS-gRPC/rust-server) - DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.
