@@ -183,6 +183,7 @@
 
 ## Rust 
 
+- [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) - Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
 - [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Repo for donation of distributed DataFusion prototype - repo name will change
