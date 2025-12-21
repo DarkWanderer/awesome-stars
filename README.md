@@ -186,6 +186,8 @@
 
 ## Rust 
 
+- [dtolnay/zmij](https://github.com/dtolnay/zmij) - Fast floating point to string conversion
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [jonhoo/brrr](https://github.com/jonhoo/brrr) - 1BRC
 - [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -193,7 +195,7 @@
 - [datafusion-contrib/datafusion-federation](https://github.com/datafusion-contrib/datafusion-federation) - Allow DataFusion to resolve queries across remote query engines while pushing down as much compute as possible down.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) - Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
-- [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Repo for donation of distributed DataFusion prototype - repo name will change
+- [datafusion-contrib/datafusion-distributed](https://github.com/datafusion-contrib/datafusion-distributed) - Library for bringing distributed capabilities to Apache DataFusion
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
