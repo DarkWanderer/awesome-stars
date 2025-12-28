@@ -128,7 +128,7 @@
 
 ## ai-agents 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ## algorithms 
@@ -496,6 +496,8 @@
 
 ## others 
 
+- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
+- [DarkWanderer/octocrab](https://github.com/DarkWanderer/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [dtolnay/zmij](https://github.com/dtolnay/zmij) - Fast floating point to string conversion
 - [AeneasVerif/eurydice](https://github.com/AeneasVerif/eurydice) - Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
 - [jonhoo/brrr](https://github.com/jonhoo/brrr) - 1BRC
