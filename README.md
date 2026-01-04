@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
