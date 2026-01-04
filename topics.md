@@ -23,6 +23,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [cloud](#cloud)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -63,6 +64,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -202,6 +204,10 @@
 ## cloud 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## coding 
+
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 
 ## command-line 
 
@@ -445,6 +451,12 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+## mcp 
+
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 
 ## microsoft 
 
