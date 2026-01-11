@@ -80,6 +80,7 @@
 - [physics](#physics)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [pytorch](#pytorch)
 - [rag](#rag)
@@ -130,7 +131,7 @@
 
 ## ai-agents 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ## algorithms 
@@ -508,6 +509,8 @@
 
 ## others 
 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [dtolnay-contrib/cargo-remark](https://github.com/dtolnay-contrib/cargo-remark) - Cargo subcommand for viewing LLVM optimization remarks.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [DarkWanderer/octocrab](https://github.com/DarkWanderer/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [dtolnay/zmij](https://github.com/dtolnay/zmij) - Fast floating point to string conversion
@@ -614,6 +617,10 @@
 
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## prompt-engineering 
+
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 
 ## python 
 
