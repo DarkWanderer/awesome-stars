@@ -509,6 +509,7 @@
 
 ## others 
 
+- [jordanhubbard/ai-code-reviewer](https://github.com/jordanhubbard/ai-code-reviewer) - Universal AI-powered code reviewer using vLLM and/or Ollama provided local LLMs. Works with any language/project. Features persona system, automatic chunking, and build integration.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dtolnay-contrib/cargo-remark](https://github.com/dtolnay-contrib/cargo-remark) - Cargo subcommand for viewing LLVM optimization remarks.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
