@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) - A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
