@@ -229,7 +229,7 @@
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
-- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
@@ -413,7 +413,7 @@
 ## library 
 
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
-- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 
 ## linux 
 
