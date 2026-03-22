@@ -83,7 +83,7 @@
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [cppfastio/fast_io](https://github.com/cppfastio/fast_io) - Freestanding fast input/output for C++20
 - [DarkWanderer/metrics-cpp](https://github.com/DarkWanderer/metrics-cpp) - High-performance metrics library
-- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The quantities and units library for C++
+- [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 - [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
