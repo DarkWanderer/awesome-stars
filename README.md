@@ -190,6 +190,7 @@
 
 ## Rust 
 
+- [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [dtolnay-contrib/cargo-remark](https://github.com/dtolnay-contrib/cargo-remark) - Cargo subcommand for viewing LLVM optimization remarks.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
