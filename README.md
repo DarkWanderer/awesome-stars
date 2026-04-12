@@ -144,6 +144,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
