@@ -139,6 +139,7 @@
 
 ## ai-agents 
 
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -549,6 +550,7 @@
 
 ## others 
 
+- [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [jordanhubbard/loom](https://github.com/jordanhubbard/loom) - A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [jordanhubbard/ai-code-reviewer](https://github.com/jordanhubbard/ai-code-reviewer) - Universal AI-powered code reviewer using vLLM and/or Ollama provided local LLMs. Works with any language/project. Features persona system, automatic chunking, and build integration.
