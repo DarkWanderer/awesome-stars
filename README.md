@@ -11,6 +11,7 @@
 - [CMake](#cmake)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
@@ -111,6 +112,10 @@
 
 - [arma-actions/sqflint](https://github.com/arma-actions/sqflint) - Action for LordGolias/sqflint
 
+## Elixir 
+
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+
 ## F# # 
 
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
@@ -193,6 +198,7 @@
 
 ## Rust 
 
+- [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - (Auto)DRY for your Rust dependencies
 - [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
