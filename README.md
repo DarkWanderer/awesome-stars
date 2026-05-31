@@ -75,6 +75,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -175,7 +176,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [jordanhubbard/ai-code-reviewer](https://github.com/jordanhubbard/ai-code-reviewer) - Universal AI-powered code reviewer using vLLM and/or Ollama provided local LLMs. Works with any language/project. Features persona system, automatic chunking, and build integration.
 - [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO® PoweredUp devices
-- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -273,7 +274,6 @@
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
 - [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 - [google-github-actions/auth](https://github.com/google-github-actions/auth) - A GitHub Action for authenticating to Google Cloud.
 - [swellaby/vscode-rust-test-adapter](https://github.com/swellaby/vscode-rust-test-adapter) - Rust Test Explorer extension for VS Code
