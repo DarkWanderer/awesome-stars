@@ -153,7 +153,7 @@
 
 ## JavaScript 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [opentofu/setup-opentofu](https://github.com/opentofu/setup-opentofu) - 
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [apexcharts/Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) - A blazor wrapper for ApexCharts.js
@@ -181,7 +181,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [jordanhubbard/ai-code-reviewer](https://github.com/jordanhubbard/ai-code-reviewer) - Universal AI-powered code reviewer using vLLM and/or Ollama provided local LLMs. Works with any language/project. Features persona system, automatic chunking, and build integration.
 - [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO® PoweredUp devices
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
