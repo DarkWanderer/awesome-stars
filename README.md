@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [MDX](#mdx)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -146,7 +147,6 @@
 - [korchasa/awesome-clickhouse](https://github.com/korchasa/awesome-clickhouse) - A curated list of awesome ClickHouse software.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Java 
 
@@ -160,6 +160,10 @@
 - [apexcharts/Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) - A blazor wrapper for ApexCharts.js
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Others 
 
@@ -204,9 +208,10 @@
 
 ## Rust 
 
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [ClickHouse/ch2rs](https://github.com/ClickHouse/ch2rs) - Generate Rust structs from ClickHouse rows
 - [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - (Auto)DRY for your Rust dependencies
-- [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
+- [chrishayuk/larql](https://github.com/chrishayuk/larql) - Run, serve, query and edit AI models — a Rust model runtime built on VINDEX3, an executable, inspectable model format.
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [dtolnay-contrib/cargo-remark](https://github.com/dtolnay-contrib/cargo-remark) - Cargo subcommand for viewing LLVM optimization remarks.
