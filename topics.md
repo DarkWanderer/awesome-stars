@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -135,6 +136,10 @@
 ## agent-skills 
 
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
+
+## agentic-ai 
+
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
 
 ## agents 
 
@@ -549,7 +554,6 @@
 
 ## microsoft 
 
-- [microsoft/foundry-local](https://github.com/microsoft/foundry-local) - 
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 ## mobile 
@@ -610,6 +614,7 @@
 
 ## others 
 
+- [grinnellidesigns/f-22a](https://github.com/grinnellidesigns/f-22a) - The Grinnelli Designs F-22 Raptor community mod
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [anthropics/cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) - 
@@ -693,7 +698,6 @@
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [ciribob/DCS-SimpleRadioStandalone](https://github.com/ciribob/DCS-SimpleRadioStandalone) - An open source Stand alone Radio for DCS integrating with all clickable cockpits and FC3 Aircraft
 - [dbeachy1/XRVessels-2.x](https://github.com/dbeachy1/XRVessels-2.x) - XR-Series 2.x vessel add-ons for Orbiter Space Flight Simulator
-- [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [Sparker95/Vindicta](https://github.com/Sparker95/Vindicta) - A guerrilla warfare mission for ARMA III
