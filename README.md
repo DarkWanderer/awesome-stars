@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Others](#others)
 - [PowerShell](#powershell)
@@ -78,7 +79,6 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- [microsoft/foundry-local](https://github.com/microsoft/foundry-local) - 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -96,7 +96,6 @@
 - [intercept/interceptAR](https://github.com/intercept/interceptAR) - 
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [dbeachy1/XRVessels-2.x](https://github.com/dbeachy1/XRVessels-2.x) - XR-Series 2.x vessel add-ons for Orbiter Space Flight Simulator
-- [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
@@ -160,6 +159,10 @@
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [ammaraskar/gcc-problem-matcher](https://github.com/ammaraskar/gcc-problem-matcher) - Github Action to problem match gcc output
 - [ammaraskar/msvc-problem-matcher](https://github.com/ammaraskar/msvc-problem-matcher) - Github Action to problem match MSVC output
+
+## Lua 
+
+- [grinnellidesigns/f-22a](https://github.com/grinnellidesigns/f-22a) - The Grinnelli Designs F-22 Raptor community mod
 
 ## MDX 
 
